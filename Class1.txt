@@ -1,0 +1,25 @@
+Artificial Intelligence
+    implies ability to learn
+Machine Learning
+    ability to find patterns and predict future data based on past
+
+    uncertainty can be from lack of data or intrinsic randomness
+    Probability theory says uncertainty can be reduced/understood
+
+    supervised, unsupervised, and reinforcement learning
+
+Supervised learning
+    input to ouput relationship
+    given labeled training data
+    classification and regression
+
+Unsupervised
+    input only
+    clustering, density estimation, visualization
+
+Reinforcement - not covered in class
+    reward based for sequence of outputs for success
+
+
+Parametric vs Non-parametric Models
+    fixed or growing parameter training data
